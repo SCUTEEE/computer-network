@@ -1,6 +1,6 @@
 ---
 title: 计算机网络
-type: series
+series: true
 cascade:
   params:
     math: true
